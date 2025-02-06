@@ -1,5 +1,5 @@
 Sistema de Banimento para servervidor de Fivem, ESX, VRP e VRPEX
-        ©2021 Copyright Vekez Dev, Inc. All rights reserved.
+        ©2021 Copyright Vekez Dev (gustavospe), Inc. All rights reserved.
         Venda do mesmo ou fim lucrativo é extremamente proibida.
 
 Para entrar em Contato pelo Discord: https://discord.gg/UUpMCXZ4Y7 e abrir um Ticket.
